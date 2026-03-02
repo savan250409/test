@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/cp -R * /home/ftechnol/public_html
